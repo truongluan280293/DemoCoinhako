@@ -1,0 +1,524 @@
+{
+    "data": [
+        {
+            "base": "LTC",
+            "counter": "USD",
+            "buy_price": "111.646",
+            "sell_price": "111.088",
+            "icon": "https://cdn.coinhako.com/assets/wallet-ltc-e4ce25a8fb34c45d40165b6f4eecfbca2729c40c20611acd45ea0dc3ab50f8a6.png",
+            "name": "Litecoin"
+        },
+        {
+            "base": "NEO",
+            "counter": "USD",
+            "buy_price": "21.3168",
+            "sell_price": "21.2196",
+            "icon": "https://cdn.coinhako.com/assets/wallet-neo-3fddd91057f65c159dbb601f503d637d144398d0573bf54d69fd6edf389827c7.png",
+            "name": "Neo"
+        },
+        {
+            "base": "BCH",
+            "counter": "USD",
+            "buy_price": "336.469",
+            "sell_price": "335.283",
+            "icon": "https://cdn.coinhako.com/assets/wallet-bch-b111cca7bd56007d7c8594096c6aa17d1295392a851dbb57785546f055adced4.png",
+            "name": "Bitcoin Cash"
+        },
+        {
+            "base": "1INCH",
+            "counter": "USD",
+            "buy_price": "1.49229",
+            "sell_price": "1.48517",
+            "icon": "https://cdn.coinhako.com/assets/wallet-1inch-24899df6c971ffd99466f8b46ceb49c60f96bb6b186dad875c56e3b2ba9a03a8.png",
+            "name": "1INCH"
+        },
+        {
+            "base": "AAVE",
+            "counter": "USD",
+            "buy_price": "168.17",
+            "sell_price": "167.381",
+            "icon": "https://cdn.coinhako.com/assets/wallet-aave-0eceff0513f650e657389f560a3fd485070f6a52a0ee513c503d682ef9d37b14.png",
+            "name": "Aave"
+        },
+        {
+            "base": "ADA",
+            "counter": "USD",
+            "buy_price": "0.93206",
+            "sell_price": "0.92723",
+            "icon": "https://cdn.coinhako.com/assets/wallet-ada-e245dd24f5bb3fd5a43f24bf3159eda6600da991b63ff076b7ba8a5965465f8d.png",
+            "name": "Cardano"
+        },
+        {
+            "base": "BAND",
+            "counter": "USD",
+            "buy_price": "3.80837",
+            "sell_price": "3.78978",
+            "icon": "https://cdn.coinhako.com/assets/wallet-band-72dabd201b133ac3aa69eb144f9ca9aadf98ef9333dc5947d228e8ababe1a2b8.png",
+            "name": "Band Protocol"
+        },
+        {
+            "base": "RUNE",
+            "counter": "USD",
+            "buy_price": "8.44355",
+            "sell_price": "8.408",
+            "icon": "https://cdn.coinhako.com/assets/wallet-rune-4b6faaf4dc8a3112ea0a6db352ca081d7306e0730e4768556069f8271b8e1bfd.png",
+            "name": "THORChain"
+        },
+        {
+            "base": "ICP",
+            "counter": "USD",
+            "buy_price": "16.9173",
+            "sell_price": "16.8379",
+            "icon": "https://cdn.coinhako.com/assets/wallet-icp-039a15d37ff7a6630a59efcfd5fba655dacf2a81c8d1bc4ec68e35447d3500c7.png",
+            "name": "Internet Computer"
+        },
+        {
+            "base": "AXS",
+            "counter": "USD",
+            "buy_price": "45.9911",
+            "sell_price": "45.7928",
+            "icon": "https://cdn.coinhako.com/assets/wallet-axs-3cbc37a162b215bf6019fee03319518d5f1c8649a801472b52bb6379714fbfe4.png",
+            "name": "Axie Infinity"
+        },
+        {
+            "base": "BNB",
+            "counter": "USD",
+            "buy_price": "420.223",
+            "sell_price": "418.404",
+            "icon": "https://cdn.coinhako.com/assets/wallet-bnb-99e7383556a6d8c5b174a4f56084bc1bbb9fbaae88fa55d0ab6f9211461f03a3.png",
+            "name": "Binance Coin"
+        },
+        {
+            "base": "COMP",
+            "counter": "USD",
+            "buy_price": "140.209",
+            "sell_price": "139.534",
+            "icon": "https://cdn.coinhako.com/assets/wallet-comp-198e2a18660d7ee7812cbd7bdedd68b39ef2692220c15e575656bdeaf430bf7e.png",
+            "name": "Compound"
+        },
+        {
+            "base": "CRV",
+            "counter": "USD",
+            "buy_price": "2.19983",
+            "sell_price": "2.18983",
+            "icon": "https://cdn.coinhako.com/assets/wallet-crv-86373dd4b580b592cefbb100ffa00b1a3978c557765bb806301d1b51d614b245.png",
+            "name": "Curve"
+        },
+        {
+            "base": "DOT",
+            "counter": "USD",
+            "buy_price": "18.19",
+            "sell_price": "18.1055",
+            "icon": "https://cdn.coinhako.com/assets/wallet-dot-5f7acffd42b750f32d74b1b33b80c0c5bcb691d7a100142a656957f2d8694893.png",
+            "name": "Polkadot"
+        },
+        {
+            "base": "FIL",
+            "counter": "USD",
+            "buy_price": "19.5931",
+            "sell_price": "19.5028",
+            "icon": "https://cdn.coinhako.com/assets/wallet-fil-20e243b6d6e0731fe66b711c1445ec71fd7391adc878829c15adb3a8015a8cc3.png",
+            "name": "Filecoin"
+        },
+        {
+            "base": "LRC",
+            "counter": "USD",
+            "buy_price": "0.92834",
+            "sell_price": "0.92444",
+            "icon": "https://cdn.coinhako.com/assets/wallet-lrc-667e1a5b9f10fc3298f8ce87ede65da172b0bc9a7ae7fd1f28fa5468b37b91e2.png",
+            "name": "Loopring"
+        },
+        {
+            "base": "GRT",
+            "counter": "USD",
+            "buy_price": "0.3607",
+            "sell_price": "0.35912",
+            "icon": "https://cdn.coinhako.com/assets/wallet-grt-c11219827bf87bd8f28746ae6d42660f3911161c35d3e4af629b2be23a1e7789.png",
+            "name": "Graph"
+        },
+        {
+            "base": "KSM",
+            "counter": "USD",
+            "buy_price": "166.466",
+            "sell_price": "165.685",
+            "icon": "https://cdn.coinhako.com/assets/wallet-ksm-9a615ce9c627dbbb8487c061df579ef9a145d449b09d8e6fdc06a6d87645c65a.png",
+            "name": "Kusama"
+        },
+        {
+            "base": "LINK",
+            "counter": "USD",
+            "buy_price": "13.9707",
+            "sell_price": "13.9035",
+            "icon": "https://cdn.coinhako.com/assets/wallet-link-d6a16437dbbad8f4c9460b16db3dccfd96e467ef203c19b3930df1c7818aaa94.png",
+            "name": "Chainlink"
+        },
+        {
+            "base": "NEAR",
+            "counter": "USD",
+            "buy_price": "16.8561",
+            "sell_price": "16.786",
+            "icon": "https://cdn.coinhako.com/assets/wallet-near-f3dcc7e18352728e564f9b4fdab190baa877d6f12735092fcb9097d728d8232b.png",
+            "name": "Near"
+        },
+        {
+            "base": "YFI",
+            "counter": "USD",
+            "buy_price": "19018.65",
+            "sell_price": "18937.34",
+            "icon": "https://cdn.coinhako.com/assets/wallet-yfi-e9011dc843a77459efc0c0a1d791dca40104b7f1c79b79eeef995a3431c559f1.png",
+            "name": "Yearn.finance"
+        },
+        {
+            "base": "ATOM",
+            "counter": "USD",
+            "buy_price": "24.0729",
+            "sell_price": "23.9644",
+            "icon": "https://cdn.coinhako.com/assets/wallet-atom-617664f52732f73de445f01920187abdf163366d0041a3f3646c417b047e2cd3.png",
+            "name": "Cosmos"
+        },
+        {
+            "base": "ZEC",
+            "counter": "USD",
+            "buy_price": "154.74",
+            "sell_price": "154.006",
+            "icon": "https://cdn.coinhako.com/assets/wallet-zec-01b9dbf9a2421a600e48cbfd57eb65af66c685057403abbcd4a1e8ba3fa3ddfd.png",
+            "name": "Zcash"
+        },
+        {
+            "base": "ETH",
+            "counter": "USD",
+            "buy_price": "3051.11",
+            "sell_price": "3043.47",
+            "icon": "https://cdn.coinhako.com/assets/wallet-eth-e96c70f160ee116a655d937a3039d9e29266333731e33fb0df6fc16faa8025e8.png",
+            "name": "Ethereum"
+        },
+        {
+            "base": "SC",
+            "counter": "USD",
+            "buy_price": "0.010323",
+            "sell_price": "0.01026",
+            "icon": "https://cdn.coinhako.com/assets/wallet-sia-adcbcad6fdb5f68c4b230edbd5bb8aeef7cc79c09a2e3be40b0f462966ccbcf4.png",
+            "name": "Siacoin"
+        },
+        {
+            "base": "XTZ",
+            "counter": "USD",
+            "buy_price": "3.15092",
+            "sell_price": "3.13702",
+            "icon": "https://cdn.coinhako.com/assets/wallet-tezos-8fb82a330ec858718381336bf9a7826d7e8719d5f6b95bf762f894f848761a3a.png",
+            "name": "Tezos"
+        },
+        {
+            "base": "CEL",
+            "counter": "USD",
+            "buy_price": "2.07763",
+            "sell_price": "2.06887",
+            "icon": "https://cdn.coinhako.com/assets/wallet-cel-3e355f809acecc1b13e5ecd5cffba2e148b3cd6e068a31abdedffbca69e329f9.png",
+            "name": "Celsius"
+        },
+        {
+            "base": "OMG",
+            "counter": "USD",
+            "buy_price": "4.67528",
+            "sell_price": "4.65514",
+            "icon": "https://cdn.coinhako.com/assets/wallet-omg-5500f48fc8be5c39a93402b92f64560a91e9f129695a06a859e48aa251e0c185.png",
+            "name": "OmiseGo"
+        },
+        {
+            "base": "VET",
+            "counter": "USD",
+            "buy_price": "0.059932",
+            "sell_price": "0.059676",
+            "icon": "https://cdn.coinhako.com/assets/wallet-vet-22eda6a704958963c6098b204aca2be72ee273021977317d754bf8f48c91823f.png",
+            "name": "VeChain"
+        },
+        {
+            "base": "SNX",
+            "counter": "USD",
+            "buy_price": "5.1884",
+            "sell_price": "5.16616",
+            "icon": "https://cdn.coinhako.com/assets/wallet-snx-86da2d724f55c33bac62e1f9fa0b819ef8cb1d504188ef23c3c5767cbbc467c0.png",
+            "name": "Synthetix Network Token"
+        },
+        {
+            "base": "SOL",
+            "counter": "USD",
+            "buy_price": "102.225",
+            "sell_price": "101.796",
+            "icon": "https://cdn.coinhako.com/assets/wallet-sol-f100325b7488d03d4e0fb8b5f8e09e68130cbe789025f3756bccb8a058157302.png",
+            "name": "Solana"
+        },
+        {
+            "base": "IOTA",
+            "counter": "USD",
+            "buy_price": "0.66186",
+            "sell_price": "0.65895",
+            "icon": "https://cdn.coinhako.com/assets/wallet-iota-b59fcaed93ad2304bead36f58a0e96070d886156bae82335be8869d76f91bacb.png",
+            "name": "MIOTA"
+        },
+        {
+            "base": "CLV",
+            "counter": "USD",
+            "buy_price": "0.34877",
+            "sell_price": "0.34634",
+            "icon": "https://cdn.coinhako.com/assets/wallet-clv-74e066eec487f78de31519b23e3746db9432c61076da6258cb0e14fed5dfb016.png",
+            "name": "Clover Finance"
+        },
+        {
+            "base": "DAI",
+            "counter": "USD",
+            "buy_price": "1.001",
+            "sell_price": "0.9988",
+            "icon": "https://cdn.coinhako.com/assets/wallet-dai-ee3f7ad759f10371a13205a81d3550d71eb54219e7faf498c44193431fac7b5a.png",
+            "name": "Dai"
+        },
+        {
+            "base": "DOGE",
+            "counter": "USD",
+            "buy_price": "0.14011",
+            "sell_price": "0.13943",
+            "icon": "https://cdn.coinhako.com/assets/wallet-doge-96d9e86f316569a4e3e7e5196916e63ae30aaf7b9ed75577b2c3c72d77c6e66c.png",
+            "name": "Dogecoin"
+        },
+        {
+            "base": "ENJ",
+            "counter": "USD",
+            "buy_price": "1.4542",
+            "sell_price": "1.44724",
+            "icon": "https://cdn.coinhako.com/assets/wallet-enj-2ad6a4d5c925db7c19de3f145fb99e00bdbef1eb90e1a387d064608a484c59e2.png",
+            "name": "Enjin"
+        },
+        {
+            "base": "FTT",
+            "counter": "USD",
+            "buy_price": "43.2651",
+            "sell_price": "43.078",
+            "icon": "https://cdn.coinhako.com/assets/wallet-ftt-8031d1058901d579ceb46e5e2abb0fe7a7b203c3effdd91dcc7a4b9f6719afea.png",
+            "name": "FTX Token"
+        },
+        {
+            "base": "LUNA",
+            "counter": "USD",
+            "buy_price": "89.1358",
+            "sell_price": "88.7611",
+            "icon": "https://cdn.coinhako.com/assets/wallet-luna-8234067918ae9f2e9c961e14003af958d05000fe46d4828cbd53939749476e3f.png",
+            "name": "Terra"
+        },
+        {
+            "base": "THETA",
+            "counter": "USD",
+            "buy_price": "3.05772",
+            "sell_price": "3.0442",
+            "icon": "https://cdn.coinhako.com/assets/wallet-theta-fb10b02bfbff2e32772b5751c15624583fcef5d884f2696abb5f874174146af2.png",
+            "name": "Theta"
+        },
+        {
+            "base": "UNI",
+            "counter": "USD",
+            "buy_price": "9.31046",
+            "sell_price": "9.26237",
+            "icon": "https://cdn.coinhako.com/assets/wallet-uni-c0bb4cde9ba31d8722eaa93fd2f792f908146f51bf9d899dc8d968c8a2fa9ee0.png",
+            "name": "Uniswap"
+        },
+        {
+            "base": "USDC",
+            "counter": "USD",
+            "buy_price": "1.0",
+            "sell_price": "1.0",
+            "icon": "https://cdn.coinhako.com/assets/wallet-usdc-e0703665694bc9a4847141c6d56b176d3de81d6d1021d655b184aeba42e3945d.png",
+            "name": "USD Coin"
+        },
+        {
+            "base": "BTC",
+            "counter": "USD",
+            "buy_price": "40774.48",
+            "sell_price": "40672.65",
+            "icon": "https://cdn.coinhako.com/assets/wallet-btc-6af73eef204cc6dccf1aedd5549390fbc44b97e0a8e825f305bd820b436002a3.png",
+            "name": "Bitcoin"
+        },
+        {
+            "base": "MKR",
+            "counter": "USD",
+            "buy_price": "1833.04",
+            "sell_price": "1824.52",
+            "icon": "https://cdn.coinhako.com/assets/wallet-mkr-64b9c2c2128ed4f2cce7c48131818bd607cba7b41c9314abf8ea1d90f2d465e3.png",
+            "name": "Maker"
+        },
+        {
+            "base": "CHZ",
+            "counter": "USD",
+            "buy_price": "0.2272",
+            "sell_price": "0.22617",
+            "icon": "https://cdn.coinhako.com/assets/wallet-chz-2c50b041c45d5e9f25114e88e51228aad8d6d334e9a6803a652b2b6d074cdc3a.png",
+            "name": "Chiliz"
+        },
+        {
+            "base": "BAT",
+            "counter": "USD",
+            "buy_price": "0.75156",
+            "sell_price": "0.74838",
+            "icon": "https://cdn.coinhako.com/assets/wallet-bat-d7b980c33d6dea26a7ad2fba68160bf381cb9c7172eda979417d470e679798a9.png",
+            "name": "Basic Attention Token"
+        },
+        {
+            "base": "HBAR",
+            "counter": "USD",
+            "buy_price": "0.19463",
+            "sell_price": "0.19373",
+            "icon": "https://cdn.coinhako.com/assets/wallet-hbar-f09da7c3bf01216c37649799eb3645e4214ebd749bad4b82dff3b72994473b61.png",
+            "name": "Hedera Hashgraph"
+        },
+        {
+            "base": "KLAY",
+            "counter": "USD",
+            "buy_price": "0.96713",
+            "sell_price": "0.96216",
+            "icon": "https://cdn.coinhako.com/assets/wallet-klay-e15691f7fe0b9962ddaed9592d94cf7b0269735d5afc0dec56f211ac5bf6555d.png",
+            "name": "Klayton"
+        },
+        {
+            "base": "MANA",
+            "counter": "USD",
+            "buy_price": "2.08779",
+            "sell_price": "2.07914",
+            "icon": "https://cdn.coinhako.com/assets/wallet-mana-dc31ec1451eb97fdf0a86c6fecbb9bf58061925c1e40289bd0cee3f82807eecc.png",
+            "name": "Decentraland"
+        },
+        {
+            "base": "MATIC",
+            "counter": "USD",
+            "buy_price": "1.41211",
+            "sell_price": "1.40532",
+            "icon": "https://cdn.coinhako.com/assets/wallet-matic-660cc4593fe91b9edc3fbef29e733e2b9097678870df2c46f81a82996db8efd7.png",
+            "name": "Polygon"
+        },
+        {
+            "base": "SAND",
+            "counter": "USD",
+            "buy_price": "2.7318",
+            "sell_price": "2.72052",
+            "icon": "https://cdn.coinhako.com/assets/wallet-sand-722f8a1127a79038daed9b4db30fc62f8916bae301b2087681d27c34fee3a67a.png",
+            "name": "The Sandbox"
+        },
+        {
+            "base": "FLOW",
+            "counter": "USD",
+            "buy_price": "5.82279",
+            "sell_price": "5.78898",
+            "icon": "https://cdn.coinhako.com/assets/wallet-flow-ea5dba0d7c6e6fc1f616166fad98a95d25211961cf183d34da2cd35cbcc489c9.png",
+            "name": "Flow"
+        },
+        {
+            "base": "SHIB",
+            "counter": "USD",
+            "buy_price": "0.000025056",
+            "sell_price": "0.000024943",
+            "icon": "https://cdn.coinhako.com/assets/wallet-shib-331a508ab0410e584ae52f9d53a6e45886b48a1b59a823c369ba99eeb9a7d958.png",
+            "name": "Shiba Inu"
+        },
+        {
+            "base": "DYDX",
+            "counter": "USD",
+            "buy_price": "4.51793",
+            "sell_price": "4.49843",
+            "icon": "https://cdn.coinhako.com/assets/wallet-dydx-ffa1c78bf0ee28d07a099cac5fa616abaf96c0b75319aa6fb9e6339b46315901.png",
+            "name": "dYdX"
+        },
+        {
+            "base": "AVAX",
+            "counter": "USD",
+            "buy_price": "77.6706",
+            "sell_price": "77.3428",
+            "icon": "https://cdn.coinhako.com/assets/wallet-avax-b511afe9926747a3c6b540e1c301440a7f85ea4f60bcbaffec85469633c68200.png",
+            "name": "Avalanche"
+        },
+        {
+            "base": "SRM",
+            "counter": "USD",
+            "buy_price": "2.3896",
+            "sell_price": "2.371",
+            "icon": "https://cdn.coinhako.com/assets/wallet-srm-641d66c3c5fd68288c1080eabc07bdb27afc5602df61dec55b2fb98ab87b2e5a.png",
+            "name": "Serum"
+        },
+        {
+            "base": "USDT",
+            "counter": "USD",
+            "buy_price": "1.00121",
+            "sell_price": "0.99909",
+            "icon": "https://cdn.coinhako.com/assets/wallet-usdt-612619485ef345f5303616593f1c1a90b4731873803b9f5d416af8ab1bf03d50.png",
+            "name": "Tether US Dollar"
+        },
+        {
+            "base": "XLM",
+            "counter": "USD",
+            "buy_price": "0.20255",
+            "sell_price": "0.20161",
+            "icon": "https://cdn.coinhako.com/assets/wallet-xlm-edae212fb900065ee2158e95fa46cfacd557ccdc0a943fb7b9a8a486d3a56462.png",
+            "name": "Stellar Lumens"
+        },
+        {
+            "base": "XMR",
+            "counter": "USD",
+            "buy_price": "262.489",
+            "sell_price": "260.851",
+            "icon": "https://cdn.coinhako.com/assets/wallet-xmr-7eacf70c9348f787e59327f96df15b1fde0e0556d73bcb95d21a1fd533c3ecf2.png",
+            "name": "Monero"
+        },
+        {
+            "base": "XRP",
+            "counter": "USD",
+            "buy_price": "0.76819",
+            "sell_price": "0.76494",
+            "icon": "https://cdn.coinhako.com/assets/wallet-xrp-07bf2d1605eece3fc459003815616b3240736d4333b22f1f8b9dcacc1c44f696.png",
+            "name": "Ripple"
+        },
+        {
+            "base": "ZIL",
+            "counter": "USD",
+            "buy_price": "0.10963",
+            "sell_price": "0.10917",
+            "icon": "https://cdn.coinhako.com/assets/wallet-zil-fe028c5d299b673ffc85f016a2bb49dae40dba7da3f4e044572684b061a5bea5.png",
+            "name": "Zilliqa"
+        },
+        {
+            "base": "EGLD",
+            "counter": "USD",
+            "buy_price": "155.662",
+            "sell_price": "154.994",
+            "icon": "https://cdn.coinhako.com/assets/wallet-egld-159f1377a0841f9c3483dcd5d5fafd60ec3bdcca42629a8128912f04765c4544.png",
+            "name": "Elrond eGold"
+        },
+        {
+            "base": "FTM",
+            "counter": "USD",
+            "buy_price": "1.14332",
+            "sell_price": "1.13853",
+            "icon": "https://cdn.coinhako.com/assets/wallet-ftm-bc3726e6dfd406f49af6993e340bcc3bd88640c43bcff4f38a72f8d09f091869.png",
+            "name": "Fantom"
+        },
+        {
+            "base": "GALA",
+            "counter": "USD",
+            "buy_price": "0.19476",
+            "sell_price": "0.19395",
+            "icon": "https://cdn.coinhako.com/assets/wallet-gala-6c5ebe223c39b2772924e7a2e6bf777374676e67934254833ce77cf587268186.png",
+            "name": "Gala"
+        },
+        {
+            "base": "BTTC",
+            "counter": "USD",
+            "buy_price": "0.0000019143",
+            "sell_price": "0.0000018964",
+            "icon": "https://cdn.coinhako.com/assets/wallet-btt-e00fb5b8d40aa28219fa5b0be790b3a73be5272249090288376dbe42944a750e.png",
+            "name": "BitTorrent Chain"
+        },
+        {
+            "base": "XNO",
+            "counter": "USD",
+            "buy_price": "2.10864",
+            "sell_price": "2.09701",
+            "icon": "https://cdn.coinhako.com/assets/wallet-nano-100090f58987f48e0bb62ca8adcb18dc72acf68a2ed9f2d356ba345bf1585f73.png",
+            "name": "Nano"
+        }
+    ]
+}
